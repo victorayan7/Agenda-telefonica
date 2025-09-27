@@ -1,5 +1,3 @@
-#Código pronto
-
 def adicionar_contato(nome_do_contato, telefone_do_contato, email_do_contato):
     contato = {"nome":nome_do_contato, "telefone": telefone_do_contato, "email": email_do_contato, "favoritado":False}
     agenda.append(contato)
